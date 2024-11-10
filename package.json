@@ -11,8 +11,7 @@
   "dependencies": {
     "@motion-canvas/2d": "^3.17.1",
     "@motion-canvas/core": "^3.17.0",
-    "@motion-canvas/ffmpeg": "^1.1.0",
-    "motion-canvas-component-library": "file:../motion-canvas-component-library-template"
+    "@motion-canvas/ffmpeg": "^1.1.0"
   },
   "devDependencies": {
     "@motion-canvas/ui": "^3.17.0",
