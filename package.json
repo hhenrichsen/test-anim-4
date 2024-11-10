@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "start": "vite",
-    "serve": "vite",
-    "build": "tsc && vite build",
+    "start": "vite -c vite.config.ts",
+    "serve": "vite -c vite.config.ts",
+    "build": "tsc && vite -c vite.config.ts build",
     "deploy": "vite -c vite.deploy.config.ts build"
   },
   "dependencies": {
